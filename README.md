@@ -1,7 +1,7 @@
 # Clean-Animation-Website
 A modern, animated portfolio website for a graphic designer featuring smooth scroll, hover effects, and custom cursor animations using GSAP and Locomotive Scroll.
 
-# 🎨 Natalie Briskof — Portfolio Website
+# 🎨 Portfolio Website
 
 A sleek, animated portfolio website for Natalie Briskof, a professional graphic designer based in Germany. This site showcases her work, offers insight into her creative process, and delivers an interactive visual experience with smooth scroll and custom mouse animations.
 
