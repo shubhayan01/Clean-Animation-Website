@@ -64,10 +64,10 @@ html, body {
 
 #heading {
     margin: 35px;
-    overflow: hidden; /* Added for animation */
+    overflow: hidden;
 }
 
-/* Added these overflow properties for animation */
+
 .hidehide, .block1 {
     overflow: hidden;
 }
@@ -103,7 +103,7 @@ html, body {
 #smallheading {
     margin-top: 139px;
     padding-right: 50px;
-    overflow: hidden; /* Added for animation */
+    overflow: hidden; 
 }
 
 #smallheading h5 {
@@ -125,7 +125,7 @@ html, body {
     width: calc(100% - 60px);
     padding: 30px;
     box-sizing: border-box;
-    overflow: hidden; /* Added for animation */
+    overflow: hidden; 
 }
 
 #herofoot a {
@@ -296,7 +296,7 @@ html, body {
     color: black;
 }
 
-/* Improved footer section */
+
 #last {
     background-color: black;
     width: 100%;
@@ -368,7 +368,7 @@ html, body {
     opacity: 1;
 }
 
-/* Responsive adjustments */
+
 @media (max-width: 768px) {
     #about {
         flex-direction: column;
@@ -393,7 +393,7 @@ html, body {
 
     .hidehide{
         width: fit-content;
-        background-color: transparent; /* Changed from teal to transparent */
+        background-color: transparent; 
     }
 
 
