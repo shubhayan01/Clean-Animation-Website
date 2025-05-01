@@ -5,9 +5,7 @@ A modern, animated portfolio website for a graphic designer featuring smooth scr
 
 A sleek, animated portfolio website for Natalie Briskof, a professional graphic designer based in Germany. This site showcases her work, offers insight into her creative process, and delivers an interactive visual experience with smooth scroll and custom mouse animations.
 
-## 🚀 Live Preview
 
-> 🔗 [Visit the Live Site](#) *(Replace with your hosted URL)*
 
 ## 🛠️ Tech Stack
 
